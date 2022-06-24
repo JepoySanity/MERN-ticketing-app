@@ -1,4 +1,4 @@
-# MERN-ticketing-app
+# Ticketing App ✅
 
 
 ### todo documentation here. . . .
