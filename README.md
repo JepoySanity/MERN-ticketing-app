@@ -1,4 +1,4 @@
 # Ticketing App ✅
 
 
-### todo documentation here. . . .
+### A simple ticketing app using MERN stack
